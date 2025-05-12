@@ -1,0 +1,10 @@
+<script>start("d:\\HTML WS\\E-Images\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("E-commerce","E-commerce",1,0,"0 B",1741443123,"3/8/25, 7:42:03 PM");</script>
+<script>addRow("adidas1logo.jpg","adidas1logo.jpg",0,25408,"24.8 kB",1741413368,"3/8/25, 11:26:08 AM");</script>
+<script>addRow("adidas2logo.jpg","adidas2logo.jpg",0,9806,"9.6 kB",1741413875,"3/8/25, 11:34:35 AM");</script>
+<script>addRow("collectionhome.jpg","collectionhome.jpg",0,3636,"3.6 kB",1741422399,"3/8/25, 1:56:39 PM");</script>
+<script>addRow("Divya img.jpg","Divya%20img.jpg",0,188239,"184 kB",1737975877,"1/27/25, 4:34:37 PM");</script>
+<script>addRow("download.jpeg","download.jpeg",0,5878,"5.7 kB",1741277323,"3/6/25, 9:38:43 PM");</script>
+<script>addRow("homebackground1.avif","homebackground1.avif",0,8531,"8.3 kB",1741414754,"3/8/25, 11:49:14 AM");</script>
+<script>addRow("shop1banner.jpeg","shop1banner.jpeg",0,3679,"3.6 kB",1741277681,"3/6/25, 9:44:41 PM");</script>
