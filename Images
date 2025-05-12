@@ -1,0 +1,16 @@
+<script>start("d:\\HTML WS\\Images\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("E-Commerce-Video","E-Commerce-Video",1,0,"0 B",1747052167,"5/12/25, 5:46:07 PM");</script>
+<script>addRow("E-Images","E-Images",1,0,"0 B",1747052147,"5/12/25, 5:45:47 PM");</script>
+<script>addRow("logo","logo",1,0,"0 B",1747052206,"5/12/25, 5:46:46 PM");</script>
+<script>addRow("banner.jpeg","banner.jpeg",0,5467,"5.3 kB",1740840419,"3/1/25, 8:16:59 PM");</script>
+<script>addRow("banner1.jpg","banner1.jpg",0,17081,"16.7 kB",1740840562,"3/1/25, 8:19:22 PM");</script>
+<script>addRow("banner2.webp","banner2.webp",0,16076,"15.7 kB",1740843186,"3/1/25, 9:03:06 PM");</script>
+<script>addRow("s1.jpeg","s1.jpeg",0,3284,"3.2 kB",1740742767,"2/28/25, 5:09:27 PM");</script>
+<script>addRow("s2.jpeg","s2.jpeg",0,2663,"2.6 kB",1740742779,"2/28/25, 5:09:39 PM");</script>
+<script>addRow("s3.jpeg","s3.jpeg",0,11102,"10.8 kB",1740742876,"2/28/25, 5:11:16 PM");</script>
+<script>addRow("s4.jpeg","s4.jpeg",0,4750,"4.6 kB",1740742955,"2/28/25, 5:12:35 PM");</script>
+<script>addRow("s5.jpeg","s5.jpeg",0,3039,"3.0 kB",1740743086,"2/28/25, 5:14:46 PM");</script>
+<script>addRow("s6.jpeg","s6.jpeg",0,3778,"3.7 kB",1740743126,"2/28/25, 5:15:26 PM");</script>
+<script>addRow("save money.jpeg","save%20money.jpeg",0,6557,"6.4 kB",1740741654,"2/28/25, 4:50:54 PM");</script>
+<script>addRow("support.jpeg","support.jpeg",0,6662,"6.5 kB",1740741872,"2/28/25, 4:54:32 PM");</script>
